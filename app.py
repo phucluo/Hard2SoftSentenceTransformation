@@ -564,9 +564,7 @@ st.title("💌 Cỗ Máy Dịch Lời Khó Nói Sang Lời Dễ Thương")
 st.write(
     """
 Nhập một câu hơi **thẳng, khó nói** với người yêu, 
-app sẽ gợi ý phiên bản **dịu dàng, dễ thương** hơn mà vẫn giữ ý chính.  
-
-Dưới lớp vỏ lãng mạn là **sentence embeddings + semantic search**.  
+app sẽ gợi ý phiên bản **dịu dàng, dễ thương** hơn mà vẫn giữ ý chính.
 """
 )
 
